@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Mercedes-Benz W123 280E 1955",
+        "description": "Uncompromising Stuttgart saloon",
+        "year": 1955,
+        "country": "United Kingdom",
+        "mileage": "104 338 km",
+        "rarity_rating": 3,
+        "price": "$228.511",
+        "availability": "Available: 1"
+    },
+    {
+        "name": "BMW E24 635CSi 1954",
+        "description": "Shark-nose grand tourer",
+        "year": 1954,
+        "country": "Germany",
+        "mileage": "189 886 km",
+        "rarity_rating": 3,
+        "price": "$18.457",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Jaguar XJ6 1983",
+        "description": "Silky British luxury saloon",
+        "year": 1983,
+        "country": "Germany",
+        "mileage": "119 395 km",
+        "rarity_rating": 2,
+        "price": "$268.210",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Nissan 300ZX Z31 1966",
+        "description": "Angular Japanese sports coupe",
+        "year": 1966,
+        "country": "Japan",
+        "mileage": "134 738 km",
+        "rarity_rating": 3,
+        "price": "$104.195",
+        "availability": "Sold"
+    },
+    {
+        "name": "Ferrari F40 1984",
+        "description": "Raw Prancing Horse icon",
+        "year": 1984,
+        "country": "Italy",
+        "mileage": "141 828 km",
+        "rarity_rating": 1,
+        "price": "$277.672",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Mercedes-Benz W123 280E 1972",
+        "description": "Early W123, driver condition",
+        "year": 1972,
+        "country": "Germany",
+        "mileage": "31 412 km",
+        "rarity_rating": 4,
+        "price": "$157.569",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Toyota 2000GT 1970",
+        "description": "Japan's landmark sports car",
+        "year": 1970,
+        "country": "Germany",
+        "mileage": "182 543 km",
+        "rarity_rating": 4,
+        "price": "$152.646",
+        "availability": "Available: 5"
+    },
+    {
+        "name": "Toyota MR2 AW11 1969",
+        "description": "Concours mid-engine two-seater",
+        "year": 1969,
+        "country": "Japan",
+        "mileage": "150 555 km",
+        "rarity_rating": 3,
+        "price": "$91.619",
+        "availability": "Sold"
+    },
+    {
+        "name": "Nissan 300ZX Z31 1978",
+        "description": "Z31 restoration project",
+        "year": 1978,
+        "country": "Japan",
+        "mileage": "160 903 km",
+        "rarity_rating": 4,
+        "price": "$174.281",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Ferrari 308 GTS 1970",
+        "description": "Pininfarina Targa, restored",
+        "year": 1970,
+        "country": "Japan",
+        "mileage": "213 735 km",
+        "rarity_rating": 4,
+        "price": "$153.699",
+        "availability": "Available: 5"
+    },
+    {
+        "name": "Porsche 911 Carrera 1980",
+        "description": "Air-cooled Carrera, driver",
+        "year": 1980,
+        "country": "Germany",
+        "mileage": "73 759 km",
+        "rarity_rating": 4,
+        "price": "$273.100",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "Ford GT40 1973",
+        "description": "Le Mans homologation coupe",
+        "year": 1973,
+        "country": "Italy",
+        "mileage": "212 581 km",
+        "rarity_rating": 3,
+        "price": "$235.600",
+        "availability": "Sold"
+    },
+    {
+        "name": "Toyota AE86 Sprinter Trueno 1954",
+        "description": "Rear-drive twin-cam coupe",
+        "year": 1954,
+        "country": "United Kingdom",
+        "mileage": "114 768 km",
+        "rarity_rating": 1,
+        "price": "$170.136",
+        "availability": "Sold"
+    },
+    {
+        "name": "Jaguar XJ6 1986",
+        "description": "Late-series XJ6, driver",
+        "year": 1986,
+        "country": "United Kingdom",
+        "mileage": "27 784 km",
+        "rarity_rating": 3,
+        "price": "$314.641",
+        "availability": "Available: 4"
+    },
+    {
+        "name": "Porsche 928 S4 1973",
+        "description": "Transaxle grand tourer, Concours",
+        "year": 1973,
+        "country": "United Kingdom",
+        "mileage": "167 070 km",
+        "rarity_rating": 5,
+        "price": "$130.792",
+        "availability": "Available: 4"
+    },
+    {
+        "name": "Ford GT40 1952",
+        "description": "GT40, driver condition",
+        "year": 1952,
+        "country": "United States",
+        "mileage": "152 565 km",
+        "rarity_rating": 1,
+        "price": "$333.273",
+        "availability": "Sold"
+    },
+    {
+        "name": "BMW 2002 1978",
+        "description": "Concours 2002, five-speed",
+        "year": 1978,
+        "country": "Italy",
+        "mileage": "181 589 km",
+        "rarity_rating": 5,
+        "price": "$336.315",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Nissan Fairlady Z (S30) 1962",
+        "description": "S30 Fairlady Z, restored",
+        "year": 1962,
+        "country": "Japan",
+        "mileage": "17 872 km",
+        "rarity_rating": 2,
+        "price": "$125.955",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "BMW E28 535i 1970",
+        "description": "E28 535i, restored",
+        "year": 1970,
+        "country": "Japan",
+        "mileage": "73 208 km",
+        "rarity_rating": 5,
+        "price": "$126.154",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "Porsche 944 Turbo 1956",
+        "description": "Turbocharged transaxle coupe",
+        "year": 1956,
+        "country": "United States",
+        "mileage": "131 662 km",
+        "rarity_rating": 1,
+        "price": "$81.049",
+        "availability": "Sold"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1955",
+        "description": "Group A homologation, Concours",
+        "year": 1955,
+        "country": "United Kingdom",
+        "mileage": "241 170 km",
+        "rarity_rating": 4,
+        "price": "$122.977",
+        "availability": "Available: 4"
+    },
+    {
+        "name": "Ferrari F40 1953",
+        "description": "F40, driver condition",
+        "year": 1953,
+        "country": "Germany",
+        "mileage": "130 205 km",
+        "rarity_rating": 2,
+        "price": "$44.553",
+        "availability": "Available: 4"
+    },
+    {
+        "name": "Jaguar XJ6 1975",
+        "description": "XJ6 project, mid-production",
+        "year": 1975,
+        "country": "Japan",
+        "mileage": "90 515 km",
+        "rarity_rating": 2,
+        "price": "$196.170",
+        "availability": "Available: 1"
+    },
+    {
+        "name": "Porsche 944 Turbo 1952",
+        "description": "Turbocharged transaxle driver",
+        "year": 1952,
+        "country": "United Kingdom",
+        "mileage": "106 892 km",
+        "rarity_rating": 3,
+        "price": "$330.964",
+        "availability": "Sold"
+    },
+    {
+        "name": "BMW E30 M3 1975",
+        "description": "Homologation M3, Concours",
+        "year": 1975,
+        "country": "Italy",
+        "mileage": "186 306 km",
+        "rarity_rating": 1,
+        "price": "$347.873",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Ford Mustang Fastback 1956",
+        "description": "Mustang Fastback, Concours",
+        "year": 1956,
+        "country": "United States",
+        "mileage": "81 807 km",
+        "rarity_rating": 5,
+        "price": "$86.503",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "BMW E28 535i 1968",
+        "description": "E28 535i, driver condition",
+        "year": 1968,
+        "country": "United Kingdom",
+        "mileage": "44 686 km",
+        "rarity_rating": 3,
+        "price": "$349.488",
+        "availability": "Sold"
+    },
+    {
+        "name": "Mercedes-Benz SL 560 1963",
+        "description": "R107 SL 560, project condition",
+        "year": 1963,
+        "country": "Japan",
+        "mileage": "84 909 km",
+        "rarity_rating": 1,
+        "price": "$140.819",
+        "availability": "Sold"
+    },
+    {
+        "name": "Mercedes-Benz SEC 500 1962",
+        "description": "W126 SEC 500, driver",
+        "year": 1962,
+        "country": "Germany",
+        "mileage": "189 478 km",
+        "rarity_rating": 3,
+        "price": "$177.703",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Porsche 911 Carrera 1953",
+        "description": "Early Carrera, restored",
+        "year": 1953,
+        "country": "Germany",
+        "mileage": "203 308 km",
+        "rarity_rating": 2,
+        "price": "$303.295",
+        "availability": "Available: 4"
+    },
+    {
+        "name": "Ferrari 250 GT 1959",
+        "description": "250 GT coupe, Concours",
+        "year": 1959,
+        "country": "Italy",
+        "mileage": "115 751 km",
+        "rarity_rating": 1,
+        "price": "$290.422",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Jaguar XJ6 1982",
+        "description": "XJ6 Series III, restored",
+        "year": 1982,
+        "country": "United Kingdom",
+        "mileage": "236 555 km",
+        "rarity_rating": 3,
+        "price": "$235.621",
+        "availability": "Sold"
+    },
+    {
+        "name": "Ferrari F40 1951",
+        "description": "F40 Concours, factory spec",
+        "year": 1951,
+        "country": "United Kingdom",
+        "mileage": "156 165 km",
+        "rarity_rating": 3,
+        "price": "$209.858",
+        "availability": "Sold"
+    },
+    {
+        "name": "Ford GT40 1961",
+        "description": "GT40, driver condition",
+        "year": 1961,
+        "country": "Japan",
+        "mileage": "193 161 km",
+        "rarity_rating": 5,
+        "price": "$69.904",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1980",
+        "description": "Sierra Cosworth, driver",
+        "year": 1980,
+        "country": "United States",
+        "mileage": "25 622 km",
+        "rarity_rating": 2,
+        "price": "$107.513",
+        "availability": "Available: 1"
+    },
+    {
+        "name": "Porsche 944 Turbo 1982",
+        "description": "944 Turbo, driver condition",
+        "year": 1982,
+        "country": "United Kingdom",
+        "mileage": "130 019 km",
+        "rarity_rating": 4,
+        "price": "$17.747",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "BMW E28 535i 1978",
+        "description": "E28 535i, project condition",
+        "year": 1978,
+        "country": "Italy",
+        "mileage": "77 472 km",
+        "rarity_rating": 1,
+        "price": "$258.187",
+        "availability": "Available: 1"
+    },
+    {
+        "name": "Nissan Fairlady Z (S30) 1980",
+        "description": "S30 Fairlady Z, Concours",
+        "year": 1980,
+        "country": "United States",
+        "mileage": "96 463 km",
+        "rarity_rating": 1,
+        "price": "$239.692",
+        "availability": "Sold"
+    },
+    {
+        "name": "Nissan 300ZX Z31 1976",
+        "description": "Z31 300ZX, Concours",
+        "year": 1976,
+        "country": "Italy",
+        "mileage": "197 971 km",
+        "rarity_rating": 4,
+        "price": "$224.552",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Jaguar E-Type 1957",
+        "description": "E-Type Convertible, Concours",
+        "year": 1957,
+        "country": "United Kingdom",
+        "mileage": "129 496 km",
+        "rarity_rating": 2,
+        "price": "$208.036",
+        "availability": "Available: 1"
+    },
+    {
+        "name": "Ford GT40 1972",
+        "description": "GT40 coupe, restored",
+        "year": 1972,
+        "country": "Italy",
+        "mileage": "117 717 km",
+        "rarity_rating": 3,
+        "price": "$48.086",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1980",
+        "description": "Sierra Cosworth V8, AWD",
+        "year": 1980,
+        "country": "Italy",
+        "mileage": "55 820 km",
+        "rarity_rating": 2,
+        "price": "$204.109",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Nissan Skyline GT-R (KPGC10) 1971",
+        "description": "Hakosuka GT-R, project condition",
+        "year": 1971,
+        "country": "Italy",
+        "mileage": "185 735 km",
+        "rarity_rating": 4,
+        "price": "$264.577",
+        "availability": "Sold"
+    },
+    {
+        "name": "Mercedes-Benz 190E 1976",
+        "description": "190E W201, driver",
+        "year": 1976,
+        "country": "United States",
+        "mileage": "218 705 km",
+        "rarity_rating": 4,
+        "price": "$281.984",
+        "availability": "Reserved"
+    },
+    {
+        "name": "BMW E28 535i 1979",
+        "description": "E28 535i, project condition",
+        "year": 1979,
+        "country": "Japan",
+        "mileage": "94 772 km",
+        "rarity_rating": 2,
+        "price": "$346.703",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "Ferrari 250 GT 1969",
+        "description": "250 GT coupe, Concours",
+        "year": 1969,
+        "country": "Germany",
+        "mileage": "102 304 km",
+        "rarity_rating": 5,
+        "price": "$115.563",
+        "availability": "Sold"
+    },
+    {
+        "name": "Porsche 944 Turbo 1977",
+        "description": "944 Turbo, project condition",
+        "year": 1977,
+        "country": "United Kingdom",
+        "mileage": "77 140 km",
+        "rarity_rating": 1,
+        "price": "$105.199",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Mercedes-Benz SEC 500 1981",
+        "description": "W126 SEC 500, restored",
+        "year": 1981,
+        "country": "United States",
+        "mileage": "65 447 km",
+        "rarity_rating": 4,
+        "price": "$178.008",
+        "availability": "Sold"
+    },
+    {
+        "name": "Porsche 911 Carrera 1981",
+        "description": "911 Carrera, driver",
+        "year": 1981,
+        "country": "Japan",
+        "mileage": "203 484 km",
+        "rarity_rating": 1,
+        "price": "$77.234",
+        "availability": "Sold"
+    },
+    {
+        "name": "Jaguar XJ6 1965",
+        "description": "Early XJ6, driver condition",
+        "year": 1965,
+        "country": "United States",
+        "mileage": "149 463 km",
+        "rarity_rating": 5,
+        "price": "$94.414",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Jaguar E-Type 1978",
+        "description": "E-Type Series III, driver",
+        "year": 1978,
+        "country": "Italy",
+        "mileage": "211 204 km",
+        "rarity_rating": 1,
+        "price": "$349.028",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1966",
+        "description": "Sierra Cosworth, driver condition",
+        "year": 1966,
+        "country": "Japan",
+        "mileage": "202 085 km",
+        "rarity_rating": 5,
+        "price": "$155.193",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ferrari F40 1959",
+        "description": "F40 in yellow, driver",
+        "year": 1959,
+        "country": "United Kingdom",
+        "mileage": "82 731 km",
+        "rarity_rating": 2,
+        "price": "$302.521",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ferrari 308 GTS 1959",
+        "description": "308 GTS Targa, Concours",
+        "year": 1959,
+        "country": "United Kingdom",
+        "mileage": "137 225 km",
+        "rarity_rating": 3,
+        "price": "$329.084",
+        "availability": "Sold"
+    },
+    {
+        "name": "Porsche 911 Carrera 1965",
+        "description": "Early 911, project condition",
+        "year": 1965,
+        "country": "United Kingdom",
+        "mileage": "115 053 km",
+        "rarity_rating": 2,
+        "price": "$293.234",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "Jaguar E-Type 1973",
+        "description": "E-Type roadster, late production",
+        "year": 1973,
+        "country": "Germany",
+        "mileage": "25 559 km",
+        "rarity_rating": 4,
+        "price": "$103.048",
+        "availability": "Sold"
+    },
+    {
+        "name": "Ford Mustang Fastback 1962",
+        "description": "Mustang Fastback, restored",
+        "year": 1962,
+        "country": "Italy",
+        "mileage": "147 155 km",
+        "rarity_rating": 1,
+        "price": "$131.451",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Mercedes-Benz SEC 500 1962",
+        "description": "W126 SEC 500, restored",
+        "year": 1962,
+        "country": "Germany",
+        "mileage": "229 751 km",
+        "rarity_rating": 3,
+        "price": "$343.370",
+        "availability": "Sold"
+    },
+    {
+        "name": "Nissan Fairlady Z (S30) 1951",
+        "description": "S30 Fairlady Z, high-spec",
+        "year": 1951,
+        "country": "United Kingdom",
+        "mileage": "205 239 km",
+        "rarity_rating": 5,
+        "price": "$208.956",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Jaguar E-Type 1987",
+        "description": "E-Type late production, driver",
+        "year": 1987,
+        "country": "Italy",
+        "mileage": "142 287 km",
+        "rarity_rating": 3,
+        "price": "$188.315",
+        "availability": "Sold"
+    },
+    {
+        "name": "Toyota MR2 AW11 1953",
+        "description": "AW11 MR2, restored",
+        "year": 1953,
+        "country": "United States",
+        "mileage": "101 124 km",
+        "rarity_rating": 4,
+        "price": "$204.066",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Toyota AE86 Sprinter Trueno 1962",
+        "description": "AE86 Trueno, driver condition",
+        "year": 1962,
+        "country": "United Kingdom",
+        "mileage": "190 147 km",
+        "rarity_rating": 1,
+        "price": "$17.872",
+        "availability": "Reserved"
+    },
+    {
+        "name": "BMW E28 535i 1974",
+        "description": "E28 535i, driver condition",
+        "year": 1974,
+        "country": "Germany",
+        "mileage": "155 295 km",
+        "rarity_rating": 5,
+        "price": "$109.962",
+        "availability": "Sold"
+    },
+    {
+        "name": "Nissan Fairlady Z (S30) 1989",
+        "description": "S30 Fairlady Z, high-power",
+        "year": 1989,
+        "country": "United States",
+        "mileage": "64 909 km",
+        "rarity_rating": 4,
+        "price": "$44.895",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Ferrari F40 1971",
+        "description": "F40 Concours, silver",
+        "year": 1971,
+        "country": "Italy",
+        "mileage": "140 508 km",
+        "rarity_rating": 2,
+        "price": "$304.752",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Nissan 300ZX Z31 1984",
+        "description": "Z31 300ZX, restored",
+        "year": 1984,
+        "country": "Japan",
+        "mileage": "243 270 km",
+        "rarity_rating": 5,
+        "price": "$136.099",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "BMW E30 M3 1982",
+        "description": "E30 M3, project condition condition",
+        "year": 1982,
+        "country": "United States",
+        "mileage": "222 858 km",
+        "rarity_rating": 1,
+        "price": "$178.474",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "Toyota AE86 Sprinter Trueno 1952",
+        "description": "AE86 Trueno, restored",
+        "year": 1952,
+        "country": "United States",
+        "mileage": "234 956 km",
+        "rarity_rating": 1,
+        "price": "$53.714",
+        "availability": "Available: 1"
+    },
+    {
+        "name": "Jaguar XJ6 1954",
+        "description": "Early XJ6, driver condition",
+        "year": 1954,
+        "country": "United States",
+        "mileage": "189 516 km",
+        "rarity_rating": 1,
+        "price": "$249.295",
+        "availability": "Available: 3"
+    },
+    {
+        "name": "Ford GT40 1990",
+        "description": "GT40, driver condition",
+        "year": 1990,
+        "country": "Japan",
+        "mileage": "33 861 km",
+        "rarity_rating": 3,
+        "price": "$316.585",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Jaguar XJ-S 1985",
+        "description": "XJ-S coupe, restored",
+        "year": 1985,
+        "country": "Italy",
+        "mileage": "130 148 km",
+        "rarity_rating": 5,
+        "price": "$325.092",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ferrari 250 GT 1956",
+        "description": "250 GT convertible, Concours",
+        "year": 1956,
+        "country": "United Kingdom",
+        "mileage": "129 563 km",
+        "rarity_rating": 5,
+        "price": "$336.014",
+        "availability": "Sold"
+    },
+    {
+        "name": "Mercedes-Benz W123 280E 1964",
+        "description": "W123 280E, project condition",
+        "year": 1964,
+        "country": "Japan",
+        "mileage": "70 032 km",
+        "rarity_rating": 4,
+        "price": "$169.116",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ferrari F40 1978",
+        "description": "F40 project, high power",
+        "year": 1978,
+        "country": "United Kingdom",
+        "mileage": "202 743 km",
+        "rarity_rating": 1,
+        "price": "$98.263",
+        "availability": "Sold"
+    },
+    {
+        "name": "Ferrari 250 GT 1952",
+        "description": "250 GT coupe, restored",
+        "year": 1952,
+        "country": "Germany",
+        "mileage": "135 513 km",
+        "rarity_rating": 3,
+        "price": "$205.986",
+        "availability": "Available: 4"
+    },
+    {
+        "name": "BMW E30 M3 1979",
+        "description": "E30 M3, driver condition",
+        "year": 1979,
+        "country": "United States",
+        "mileage": "39 638 km",
+        "rarity_rating": 5,
+        "price": "$266.205",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Porsche 911 Carrera 1962",
+        "description": "911 Carrera, project condition",
+        "year": 1962,
+        "country": "United States",
+        "mileage": "174 886 km",
+        "rarity_rating": 2,
+        "price": "$168.221",
+        "availability": "Sold"
+    },
+    {
+        "name": "Nissan 300ZX Z31 1970",
+        "description": "Z31 300ZX, restored",
+        "year": 1970,
+        "country": "Japan",
+        "mileage": "188 121 km",
+        "rarity_rating": 2,
+        "price": "$54.668",
+        "availability": "Sold"
+    },
+    {
+        "name": "BMW E30 M3 1962",
+        "description": "E30 M3, Concours",
+        "year": 1962,
+        "country": "United Kingdom",
+        "mileage": "82 600 km",
+        "rarity_rating": 2,
+        "price": "$38.102",
+        "availability": "Reserved"
+    },
+    {
+        "name": "BMW 2002 1970",
+        "description": "BMW 2002, restored",
+        "year": 1970,
+        "country": "Japan",
+        "mileage": "137 568 km",
+        "rarity_rating": 4,
+        "price": "$220.508",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ferrari 250 GT 1950",
+        "description": "250 GT, early production",
+        "year": 1950,
+        "country": "Japan",
+        "mileage": "110 957 km",
+        "rarity_rating": 2,
+        "price": "$228.180",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Jaguar XJ6 1974",
+        "description": "XJ6, low mileage driver",
+        "year": 1974,
+        "country": "Japan",
+        "mileage": "33 941 km",
+        "rarity_rating": 1,
+        "price": "$30.601",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1976",
+        "description": "Sierra Cosworth, driver",
+        "year": 1976,
+        "country": "Japan",
+        "mileage": "122 536 km",
+        "rarity_rating": 5,
+        "price": "$157.822",
+        "availability": "Available: 5"
+    },
+    {
+        "name": "Mercedes-Benz 190E 1980",
+        "description": "190E, restored, high output",
+        "year": 1980,
+        "country": "United States",
+        "mileage": "159 167 km",
+        "rarity_rating": 3,
+        "price": "$85.476",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1965",
+        "description": "Sierra Cosworth AWD, driver",
+        "year": 1965,
+        "country": "Germany",
+        "mileage": "243 755 km",
+        "rarity_rating": 3,
+        "price": "$262.719",
+        "availability": "Reserved"
+    },
+    {
+        "name": "BMW E24 635CSi 1985",
+        "description": "E24 635CSi, restored",
+        "year": 1985,
+        "country": "Italy",
+        "mileage": "45 883 km",
+        "rarity_rating": 5,
+        "price": "$88.474",
+        "availability": "Sold"
+    },
+    {
+        "name": "Ford Mustang Fastback 1977",
+        "description": "Mustang Fastback, Concours",
+        "year": 1977,
+        "country": "Japan",
+        "mileage": "71 037 km",
+        "rarity_rating": 4,
+        "price": "$73.056",
+        "availability": "Available: 4"
+    },
+    {
+        "name": "Mercedes-Benz SEC 500 1965",
+        "description": "W126 SEC 500, project condition",
+        "year": 1965,
+        "country": "Germany",
+        "mileage": "127 489 km",
+        "rarity_rating": 4,
+        "price": "$265.704",
+        "availability": "Sold"
+    },
+    {
+        "name": "BMW E28 535i 1959",
+        "description": "E28 535i, low mileage",
+        "year": 1959,
+        "country": "United States",
+        "mileage": "32 163 km",
+        "rarity_rating": 5,
+        "price": "$245.217",
+        "availability": "Sold"
+    },
+    {
+        "name": "Mercedes-Benz SL 560 1979",
+        "description": "R107 SL 560, restored",
+        "year": 1979,
+        "country": "Japan",
+        "mileage": "142 353 km",
+        "rarity_rating": 4,
+        "price": "$297.732",
+        "availability": "Sold"
+    },
+    {
+        "name": "BMW 2002 1974",
+        "description": "BMW 2002, restored",
+        "year": 1974,
+        "country": "United States",
+        "mileage": "203 903 km",
+        "rarity_rating": 4,
+        "price": "$58.380",
+        "availability": "Reserved"
+    },
+    {
+        "name": "Jaguar XJ6 1973",
+        "description": "XJ6, Concours condition",
+        "year": 1973,
+        "country": "United States",
+        "mileage": "87 371 km",
+        "rarity_rating": 4,
+        "price": "$282.023",
+        "availability": "Available: 5"
+    },
+    {
+        "name": "Toyota MR2 AW11 1952",
+        "description": "AW11 MR2, restored",
+        "year": 1952,
+        "country": "Germany",
+        "mileage": "27 208 km",
+        "rarity_rating": 2,
+        "price": "$265.373",
+        "availability": "Sold"
+    },
+    {
+        "name": "Porsche 356 1973",
+        "description": "Porsche 356, project condition",
+        "year": 1973,
+        "country": "Germany",
+        "mileage": "70 725 km",
+        "rarity_rating": 5,
+        "price": "$188.422",
+        "availability": "Available: 5"
+    },
+    {
+        "name": "BMW E30 M3 1989",
+        "description": "E30 M3, late production",
+        "year": 1989,
+        "country": "Italy",
+        "mileage": "226 990 km",
+        "rarity_rating": 1,
+        "price": "$258.239",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1985",
+        "description": "Sierra Cosworth, driver condition",
+        "year": 1985,
+        "country": "United Kingdom",
+        "mileage": "137 129 km",
+        "rarity_rating": 3,
+        "price": "$157.520",
+        "availability": "Sold"
+    },
+    {
+        "name": "Porsche 928 S4 1971",
+        "description": "928 S4, project condition",
+        "year": 1971,
+        "country": "Germany",
+        "mileage": "233 990 km",
+        "rarity_rating": 2,
+        "price": "$212.637",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Ford Sierra Cosworth 1951",
+        "description": "Sierra Cosworth, restored",
+        "year": 1951,
+        "country": "United States",
+        "mileage": "73 565 km",
+        "rarity_rating": 4,
+        "price": "$106.642",
+        "availability": "Available: 2"
+    },
+    {
+        "name": "Porsche 911 Carrera 1957",
+        "description": "911 Carrera, low mileage",
+        "year": 1957,
+        "country": "United Kingdom",
+        "mileage": "24 400 km",
+        "rarity_rating": 5,
+        "price": "$221.588",
+        "availability": "Available: 5"
+    },
+    {
+        "name": "Ford GT40 1989",
+        "description": "GT40, driver condition",
+        "year": 1989,
+        "country": "United Kingdom",
+        "mileage": "162 554 km",
+        "rarity_rating": 1,
+        "price": "$34.655",
+        "availability": "Reserved"
+    }
+]
