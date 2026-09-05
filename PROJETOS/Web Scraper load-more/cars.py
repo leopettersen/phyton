@@ -8,7 +8,7 @@ class CarsSpider(scrapy.Spider):
 
     page = 2
     cars_list = []
-    old_rare_cars_list = [] # Carros que tenham sido fabricados antes de 1985
+    old_rare_cars_list = [] # Carros que tenham sido fabricados antes de 1985 e tenham 4 ou mais estrelas de raridade
 
     def parse(self, response):
         cars = response.css('div.card.sitemap-card.test-sites-card')
