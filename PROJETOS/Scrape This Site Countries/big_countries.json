@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 201103330,
+        "area_km2": 8511965.0
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "population": 70916439,
+        "area_km2": 2345410.0
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "population": 1330044000,
+        "area_km2": 9596960.0
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "population": 80471869,
+        "area_km2": 1001450.0
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "population": 88013491,
+        "area_km2": 1127127.0
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "population": 64768389,
+        "area_km2": 547030.0
+    },
+    {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "population": 242968342,
+        "area_km2": 1919440.0
+    },
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1173108018,
+        "area_km2": 3287590.0
+    },
+    {
+        "name": "Iran",
+        "capital": "Tehran",
+        "population": 76923300,
+        "area_km2": 1648000.0
+    },
+    {
+        "name": "Myanmar [Burma]",
+        "capital": "Naypyitaw",
+        "population": 53414374,
+        "area_km2": 678500.0
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "population": 112468855,
+        "area_km2": 1972550.0
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "population": 154000000,
+        "area_km2": 923768.0
+    },
+    {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "population": 184404791,
+        "area_km2": 803940.0
+    },
+    {
+        "name": "Russia",
+        "capital": "Moscow",
+        "population": 140702000,
+        "area_km2": 17100000.0
+    },
+    {
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "population": 67089500,
+        "area_km2": 514000.0
+    },
+    {
+        "name": "Turkey",
+        "capital": "Ankara",
+        "population": 77804122,
+        "area_km2": 780580.0
+    },
+    {
+        "name": "United States",
+        "capital": "Washington",
+        "population": 310232863,
+        "area_km2": 9629091.0
+    }
+]
